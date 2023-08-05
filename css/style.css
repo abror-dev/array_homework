@@ -1,0 +1,30 @@
+* {
+  background-color: aqua;
+}
+.wrapper {
+  text-align: center;
+  margin: 100px 0;
+}
+.inp {
+  width: 400px;
+  height: 40px;
+  background-color: white;
+  border-radius: 5px;
+  margin: 50px;
+  text-align: center;
+  font-size: 25px;
+}
+button {
+  width: 200px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: brown;
+  color: white;
+  font-size: 25px;
+  border: none;
+}
+::placeholder {
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+}
